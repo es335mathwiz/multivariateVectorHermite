@@ -1,0 +1,4 @@
+multivariateVectorHermite
+=========================
+
+Matghematica implementation of Terdik's "HIGHER ORDER STATISTICS AND MULTIVARIATE VECTOR HERMITE POLYNOMIALS FOR NONLINEAR ANALYSIS OF MULTIDIMENSIONAL TIME SERIES"
